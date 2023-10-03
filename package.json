@@ -1,0 +1,22 @@
+{
+  "name": "namaste-food",
+  "version": "1.0.0",
+  "description": "Namaste Food App by Ankit Singh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ankit-singh-30/namaste-food.git)"
+  },
+  "keywords": [
+    "Namaste",
+    "Food"
+  ],
+  "author": "Ankit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
