@@ -4,16 +4,16 @@
 
 - Logo
 - NavBar
-  - Home
-  - About
-  - Contact Us
+  - Search
+  - Offers
+  - Help
+  - Sign In
   - Cart
 
 # Body
 
-- Search Bar
 - Top Rated Filter
-- sorting
+- Sorting
 - Restaurant Card
   - image
   - rating
